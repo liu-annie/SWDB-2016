@@ -18,7 +18,7 @@ csids = data_set.get_cell_specimen_ids()
 # In[] this is Saskia's example code. Works as is but it's better to use the open_h5_file function. 
 import h5py
 import pandas as pd
-#this loads the response array and the peak dataframe from the analysis file
+#this loads the response array and the CaIAnalysis dataframe from the analysis file
 
 ## edit this for Mac!! And for whatever session you want.
 path = 'D:/BrainObservatory/ophys_analysis/510705057_three_session_B_analysis.h5'
